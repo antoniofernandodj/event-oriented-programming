@@ -31,7 +31,9 @@ Learn to handle HTTP requests and responses, routing, and form submissions in Fl
 Explore WebSocket communication protocol and its application in event-driven systems.
 Learn how to implement WebSocket functionality in Python using libraries like Flask-SocketIO or Django Channels.
 Build a simple real-time chat application using WebSockets.
-Saturday and Sunday: Projects to Reinforce Learning
+
+
+## Saturday and Sunday: Projects to Reinforce Learning
 
 - Event Scheduler: Create an event scheduling application that allows users to schedule and manage events, with reminders and notifications.
 - Stock Market Tracker: Develop a real-time stock market tracker that displays live stock prices and sends alerts based on predefined conditions.
